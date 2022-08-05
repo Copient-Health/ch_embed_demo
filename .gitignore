@@ -1,0 +1,5 @@
+# Basic figaro-like environment variable definitions
+*/environment.yml
+
+# Developer debugging tools
+*/.byebug_history
